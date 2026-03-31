@@ -19,7 +19,7 @@ This is my UI/UX design project for a basketball-themed website.
 ![Žaidėjai](zaidejai.png)
 
 ## 🔗 Figma Design
-(https://www.figma.com/design/JkcJwr04pI50XnmRkP4fLE/Pramoginio-krepsinio-web-dizainas?node-id=398-4574&t=7aJk1y8D1dvD7phl-0)
+(https://www.figma.com/proto/JkcJwr04pI50XnmRkP4fLE/Pramoginio-krepsinio-web-dizainas?node-id=2-15&t=7YmnABvsDxZeKFnj-1)
 
 ---
 
