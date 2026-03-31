@@ -10,7 +10,7 @@ This is my UI/UX design project for a basketball-themed website.
 ## 🎨 Preview
 
 ### Home Page
-![Home](Home page.png)
+![Home](Homepage.png)
 
 ### Komandos
 ![Komandos](Komandos.png)
